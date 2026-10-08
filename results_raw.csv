@@ -1,0 +1,81 @@
+N,map,method,d,g,E,F
+3,1,Breadth-first,5,14,12,6
+3,1,Depth-first,8,32,8,6
+3,1,A* (h = Chebyshev x min hardness),5,14,22,10
+3,1,A* (h = 0, i.e. uniform cost),5,14,33,12
+3,2,Breadth-first,5,13,12,6
+3,2,Depth-first,8,26,8,6
+3,2,A* (h = Chebyshev x min hardness),5,13,41,13
+3,2,A* (h = 0, i.e. uniform cost),5,13,53,8
+3,3,Breadth-first,5,17,12,6
+3,3,Depth-first,8,30,8,6
+3,3,A* (h = Chebyshev x min hardness),5,17,34,8
+3,3,A* (h = 0, i.e. uniform cost),5,17,43,9
+3,4,Breadth-first,5,20,12,6
+3,4,Depth-first,8,29,8,6
+3,4,A* (h = Chebyshev x min hardness),5,20,63,3
+3,4,A* (h = 0, i.e. uniform cost),5,20,64,2
+3,5,Breadth-first,5,16,12,6
+3,5,Depth-first,8,25,8,6
+3,5,A* (h = Chebyshev x min hardness),5,16,44,10
+3,5,A* (h = 0, i.e. uniform cost),5,16,48,8
+5,1,Breadth-first,7,23,35,24
+5,1,Depth-first,12,50,12,14
+5,1,A* (h = Chebyshev x min hardness),7,23,48,20
+5,1,A* (h = 0, i.e. uniform cost),7,23,93,33
+5,2,Breadth-first,7,28,35,24
+5,2,Depth-first,12,65,12,14
+5,2,A* (h = Chebyshev x min hardness),7,28,142,20
+5,2,A* (h = 0, i.e. uniform cost),7,28,170,9
+5,3,Breadth-first,7,21,35,24
+5,3,Depth-first,12,53,12,14
+5,3,A* (h = Chebyshev x min hardness),7,21,65,28
+5,3,A* (h = 0, i.e. uniform cost),7,21,87,28
+5,4,Breadth-first,7,18,35,24
+5,4,Depth-first,12,35,12,14
+5,4,A* (h = Chebyshev x min hardness),7,18,104,32
+5,4,A* (h = 0, i.e. uniform cost),7,18,142,21
+5,5,Breadth-first,7,22,35,24
+5,5,Depth-first,12,44,12,14
+5,5,A* (h = Chebyshev x min hardness),7,22,107,39
+5,5,A* (h = 0, i.e. uniform cost),7,22,146,21
+7,1,Breadth-first,9,29,101,54
+7,1,Depth-first,16,67,16,22
+7,1,A* (h = Chebyshev x min hardness),9,29,241,51
+7,1,A* (h = 0, i.e. uniform cost),9,29,328,28
+7,2,Breadth-first,9,36,101,54
+7,2,Depth-first,16,50,16,22
+7,2,A* (h = Chebyshev x min hardness),15,31,181,50
+7,2,A* (h = 0, i.e. uniform cost),15,31,272,42
+7,3,Breadth-first,9,32,101,54
+7,3,Depth-first,16,55,16,22
+7,3,A* (h = Chebyshev x min hardness),13,30,279,46
+7,3,A* (h = 0, i.e. uniform cost),13,30,332,26
+7,4,Breadth-first,9,29,101,54
+7,4,Depth-first,16,47,16,22
+7,4,A* (h = Chebyshev x min hardness),16,28,236,49
+7,4,A* (h = 0, i.e. uniform cost),16,28,299,34
+7,5,Breadth-first,9,36,101,54
+7,5,Depth-first,16,69,16,22
+7,5,A* (h = Chebyshev x min hardness),14,32,270,47
+7,5,A* (h = 0, i.e. uniform cost),14,32,338,28
+9,1,Breadth-first,11,44,229,86
+9,1,Depth-first,20,83,20,30
+9,1,A* (h = Chebyshev x min hardness),11,44,608,15
+9,1,A* (h = 0, i.e. uniform cost),11,44,639,3
+9,2,Breadth-first,11,46,229,86
+9,2,Depth-first,20,82,20,30
+9,2,A* (h = Chebyshev x min hardness),15,41,391,71
+9,2,A* (h = 0, i.e. uniform cost),15,41,554,51
+9,3,Breadth-first,11,54,229,86
+9,3,Depth-first,20,98,20,30
+9,3,A* (h = Chebyshev x min hardness),15,42,518,44
+9,3,A* (h = 0, i.e. uniform cost),15,42,597,25
+9,4,Breadth-first,11,51,229,86
+9,4,Depth-first,20,96,20,30
+9,4,A* (h = Chebyshev x min hardness),17,44,624,12
+9,4,A* (h = 0, i.e. uniform cost),17,44,638,4
+9,5,Breadth-first,11,47,229,86
+9,5,Depth-first,20,71,20,30
+9,5,A* (h = Chebyshev x min hardness),15,41,482,61
+9,5,A* (h = 0, i.e. uniform cost),15,41,578,35
